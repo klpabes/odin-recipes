@@ -1,0 +1,11 @@
+* {
+    background-color: aliceblue;
+}
+
+button, a {
+    background-color: black;
+}
+
+a {
+    color: white;
+}
