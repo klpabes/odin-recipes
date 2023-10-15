@@ -9,3 +9,12 @@ button, a {
 a {
     color: white;
 }
+
+.header {
+    background-color: pink;
+}
+
+p,h3 {
+    text-align: center;
+}
+
