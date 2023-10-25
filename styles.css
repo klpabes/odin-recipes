@@ -2,6 +2,13 @@
     background-color: aliceblue;
 }
 
+body {
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+}
+
 button, a {
     background-color: black;
 }
@@ -12,9 +19,13 @@ a {
 
 .header {
     background-color: pink;
+    text-align: center;
+    border: 3px dotted yellow;
 }
 
 p,h3 {
     text-align: center;
 }
 
+
+    
