@@ -18,14 +18,25 @@ a {
 }
 
 .header {
-    background-color: pink;
-    text-align: center;
-    border: 3px dotted yellow;
+    margin: 10px;
+    width: 100%;
 }
 
 p,h3 {
     text-align: center;
 }
 
+.header .odin-pic {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.header .text {
+    margin-top: 10px;
+    background-color: pink;
+    text-align: center;
+    border: 3px dotted yellow;
+}
 
     
